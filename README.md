@@ -1,6 +1,6 @@
 <p align=center><img src="images/My-banner.png" alt="yousef-alfuhaid" width="70%" height="70%"></p>
-
 <br>
+
 
 
 ---
@@ -17,6 +17,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
----
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yousef.alfehaid)
 
+
+---
+
+## Check "Pinned" For more Showcase 👇
